@@ -18,28 +18,6 @@ var adjacentMatrix = [  [0,     7,	10,	4,	7,	10,	6,	8,	12,	15,	8,	13,	17,	16,	14
                         [10,	9,	12,	6,	5,	6,	4,	2,	6,	9,	2,	3,	7,	6, 4,	10,	9,	0]];
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var cost = 0;
-
-
 function nearestNeighbour(startingNode, numberOfNodes){
     let visited = initVisitedArray(numberOfNodes);
 
